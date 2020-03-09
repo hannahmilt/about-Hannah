@@ -1,0 +1,21 @@
+h1{
+	text-align:center;
+	font-family: sans-serif;
+	margin-bottom:30px;
+	color: darkgoldenrod;
+}
+.center{
+	display:block;
+	margin-left: auto;
+	margin-right: auto;
+}
+img{
+	border-radius: 50px;
+	height: 150px;
+	width: 150px;
+
+}
+body{
+	color: darkgoldenrod;
+	background-color: lightskyblue;
+}
